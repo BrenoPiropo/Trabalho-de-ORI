@@ -1,0 +1,17 @@
+casa: 1,1 2,4 3,1
+mora: 2,1 3,1
+amor: 3,1
+nada: 1,1
+quer: 2,2 3,2
+tinha: 1,2
+casar: 3,2
+engraçada: 1,1
+muito: 1,1
+comigo: 3,2
+era: 1,1
+favor: 3,1
+tambem: 2,1
+faca: 3,1
+quem: 2,2
+teto: 1,1
+minha: 3,1
